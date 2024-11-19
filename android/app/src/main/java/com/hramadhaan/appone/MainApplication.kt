@@ -1,4 +1,4 @@
-package com.appone
+package com.hramadhaan.appone
 
 import android.app.Application
 import com.facebook.react.PackageList

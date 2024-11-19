@@ -1,4 +1,4 @@
-package com.appone
+package com.hramadhaan.appone
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
